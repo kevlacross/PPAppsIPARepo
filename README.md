@@ -8,3 +8,5 @@ Apps that have "Install as Duplicate" means that that IPA will be installed alon
 Apps that have "Non Duplicate" means that they are installed instead of the App Store one. 
 
 Also know that sideloaded apps will NOT get notifications. That is why I included the IPA just compiled as Duplicate so that you can recieve notifications through the App Store one if you choose to want Notifications.
+
+Facebook++ Link - https://mega.nz/#F!SlIlGTDY!M981-32pU-dRoPg_-N872Q
