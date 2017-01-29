@@ -11,4 +11,6 @@ Also know that sideloaded apps will NOT get notifications. That is why I include
 
 Facebook++ [Link](https://mega.nz/#F!SlIlGTDY!M981-32pU-dRoPg_-N872Q)
 
-Regarding YouTube++ with No Ads. This just removes the ads from the videos themselves. If you want to remove the ads on the bottom you have to buy the license, $2 I believe, and make an account. That account can be used across all of his ++ tweaks to remove ads. A 1 time fee of $2 to remove all ads across all of his ++ apps. All you need is the account you made which is attached to the license you bought.
+Regarding YouTube++ with No Ads. This just removes the ads from the videos themselves. If you want to remove the ads on the bottom you have to buy the license, $2 I believe, and make an account. That account can be used across all of his ++ tweaks to remove ads. A 1 time fee of $2 to remove all ads across all of his ++ apps. All you need is the account you made which is attached to the license you bought. 
+
+Changelog will be on the Reddit page [Here](https://www.reddit.com/r/iPAHub/comments/5pu67z/release_apps_github_repo/)
